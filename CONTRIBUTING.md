@@ -12,6 +12,9 @@ Hi! Thanks for taking the time to contribute to this project. Below, you will fi
 
 [Style Guidelines](#Style-Guidelines)
 
+[Security Flaws](#Security-Flaws)
+
+
 ## Code of Conduct
 Everyone who contributes to this project is expected to uphold our [Code of Conduct](/CODE_OF_CONDUCT.md). Please report all violations/concerns to project-email@gmail.com.
 
@@ -49,7 +52,7 @@ Use the following guidelines when committing to this project:
   * Body should describe why/how if necessary. 
   * Ensure all code is well commented. 
 
-## Security flaws
+## Security Flaws
 If you discover a security flaw in our project, **do not** create a bug report. Since bug reports are public, the vulnerability could be exploited by others. Instead, email us at project-email@gmail.com. Use the following guidelines: 
   * Use a descriptive subject line with "URGENT Security Flaw:" as the first thing. 
   * State when you noticed the flaw. 
