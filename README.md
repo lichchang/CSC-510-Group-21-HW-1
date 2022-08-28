@@ -12,7 +12,7 @@ HW for group 21 in CSC 510
 - Less Compile Time
 - Longer Life Expentancy
 
-## Installation Instructions
+## Installation Instructions:
 
 1. Clone the repo
 2. Run Install.exe
